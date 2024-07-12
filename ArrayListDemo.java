@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
+//adding comments demo of files modified after commit.  
 public class ArrayListDemo {
 
     public static void main(String[] args) {
