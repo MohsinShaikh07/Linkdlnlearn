@@ -4,7 +4,7 @@ public class Array {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// Define the array
+		// This file is modified in test branch
 	    int[] numbers = {1, 5, 8, 2, 9};
 	    int left = 0;
 	    int right = numbers.length - 1;
