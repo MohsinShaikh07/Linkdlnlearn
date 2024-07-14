@@ -11,6 +11,8 @@ public class ArrayListDemoFromFeatureSchedule {
         // Create an ArrayList of Strings
         ArrayList<String> classmates = new ArrayList<>();
 
+        int p,q,r
+ 
         // Add elements to the ArrayList
         classmates.add("Sabiha");
         classmates.add("Annam");
