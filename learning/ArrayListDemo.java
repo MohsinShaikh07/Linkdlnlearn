@@ -3,7 +3,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 //Made this change from main bramch
 //adding comments demo of files modified after commit.  
-public class ArrayListDemo {
+public class ArrayListDemoFromFeatureSchedule {
 
     //This line was added in main branch
     public static void main(String[] args) {
