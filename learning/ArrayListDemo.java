@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.Set;
-//changed and will be staged before commit
+//Made this change from main bramch
 //adding comments demo of files modified after commit.  
 public class ArrayListDemo {
 
