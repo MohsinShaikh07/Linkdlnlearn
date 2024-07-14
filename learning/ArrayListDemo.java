@@ -5,6 +5,7 @@ import java.util.Set;
 //adding comments demo of files modified after commit.  
 public class ArrayListDemo {
 
+    //This line was added in main branch
     public static void main(String[] args) {
 
         // Create an ArrayList of Strings
